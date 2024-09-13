@@ -1,6 +1,6 @@
 ## Hi there!
 
-Hi, my name is Yomna!
+Hi, my name is Yomna Elmousalami!
 
 I am a senior computer science undergraduate student at Old Dominion University, part of the Honors College. Throughout my college experience, I have made sure to learn many new skills and network with professionals. 
 
@@ -11,3 +11,6 @@ In May 2023, I began working as an undergraduate research assisant, with a compu
 In addition to undergraduate research, I am a current participant in the Cornell Univeristy Break Through Tech AI fellowship. In this fellowship, I am learning how to train, test, and evaluate machine learning models on real-world datasets. Additionally, I am working with industry professionals at the LegalDuel company to develop a bot that can compete in a legal duel and determine the best answer to a customer, by using Python, large language models, and natural language processing. In the future, I hope to use these skills to gain an internship and network with experienced computer science professionals.
 
 While I complete my academic studies, I still remain eager to engage in any computer science related internships, apprenticeships, or opportunities. I am excited to see what is in store for the future.
+
+For now, here is a link to access all of the technical projects that I have completed during my B.S. in CS:
+https://github.com/YomnaElmousalami/Projects

@@ -2,7 +2,7 @@
 
 Hi, my name is Yomna Elmousalami!
 
-I am a senior computer science undergraduate student at Old Dominion University, part of the Honors College. Throughout my college experience, I have made sure to learn many new skills and network with professionals. 
+I am a computer science undergraduate student at Old Dominion University, part of the Honors College. Throughout my college experience, I have made sure to learn many new skills and network with professionals. 
 
 So far, I have the most experience in C++, Java, Python, MySQL, and PHP programming, but, am still well-versed in many other programming languages. Additionally, my main areas of interest are in machine learning, data science, and artificial intelligence. However, I am still open to exploring the many fields and niches that computer science has to offer. 
 

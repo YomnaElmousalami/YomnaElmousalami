@@ -24,7 +24,7 @@ I've been interested in CS ever since I've learned how to program my first HTML 
 
 <br>
 
-## 🎯 Featured Project: [Legal Case Chronology Generator for LegalDuel](https://github.com/tiffanyfu7/legalduel-1b-ai-studio)
+## 🎯 Featured Project: [Legal Case Chronology Generator](https://github.com/tiffanyfu7/legalduel-1b-ai-studio)
 
 My team and I developed an AI web application that takes in text input or a pdf upload, to generate a chronology for legal cases. 
 

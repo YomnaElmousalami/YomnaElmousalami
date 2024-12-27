@@ -1,5 +1,5 @@
 # Hi, I'm Yomna 👋
-**:mortar_board: Senior at Old Dominion University studying Computer Science, minoring in Data Science**
+**:mortar_board: Student at Old Dominion University studying Computer Science, minoring in Data Science**
 <br>
 **🔭 Interested in Data Science, ML, SWE, and Research**
 <br>

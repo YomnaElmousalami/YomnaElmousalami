@@ -22,6 +22,7 @@ I've been interested in CS ever since I've learned how to program my first HTML 
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YomnaElmousalami&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YomnaElmousalami&layout=compact&theme=radical)
 
 <br>
 

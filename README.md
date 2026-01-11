@@ -19,9 +19,6 @@ Hello, welcome to my portfolio!
 ![C++](https://img.shields.io/badge/C%2B%2B-pink?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YomnaElmousalami&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YomnaElmousalami&layout=compact&theme=radical)
-
 <br>
 
  ## 📫 How to reach me

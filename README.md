@@ -20,7 +20,6 @@ Hello, welcome to my portfolio!
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
 
 <br>
-
  ## 📫 How to reach me
 
  <a href="mailto:yomnaelmousalami@gmail.com">

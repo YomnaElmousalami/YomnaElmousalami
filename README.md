@@ -24,32 +24,6 @@ Hello, welcome to my portfolio!
 
 <br>
 
-## 🎯 Featured Project: [Legal Case Chronology Generator](https://github.com/tiffanyfu7/legalduel-1b-ai-studio)
-
-My team and I developed an AI web application that takes in text input or a pdf upload, to generate a chronology for legal cases. 
-
-**Tools: Python, Spacy, HTML, CSS, JavaScript, OpenAI (chat completions endpoint)**
-
-**What we did: Used the Spacy for NLP, finetuned Open AI's pretrained models to generate text, utilized prompt engineering and Open AI's chat completions endpoint to get the model to generate the best results.**
-
-**Results: When we finetuned the models, the best training loss we achieved was 0.2. However, the chronology that we submitted to the LegalDuel platform placed 11th out of 13.**
-
-**Curious? See the full project [here](https://github.com/tiffanyfu7/legalduel-1b-ai-studio)**
-
-## 🚀 Other Projects
-
-A few other noteworthy projects: 
-
-1. [Analyzing NYC Vehicle Crahses](https://github.com/YomnaElmousalami/analyzing-nyc-crashes):
-   Collaborated with another teammate to analyze the causes of fatal crashes in NYC. 
-   - Tech Stack: Sckit-Learn, Matplotlib, Folium, Pandas, Numpy, Python
-   - Learnings: Create a visual accident map using the folium library to visualize the hotspots of fatal crahses and developed 3 ML models to see one can accurately predict the number of deaths, based on the features of the dataset.
-
-2. [Book review Sentiment Analysis](https://github.com/YomnaElmousalami/neural-network-sentiment-analysis)
-   Used a NLP and a neural network model to conduct a sentiment analysis of book reviews. 
-   - Tech Stack: Matplotlib, Seaborn, Pandas, Numpy
-   - Learnings: Learned how to use TfidfVectorizers and neural networks to predict sentiment (handling NLP). 
-
  ## 📫 How to reach me
 
  <a href="mailto:yomnaelmousalami@gmail.com">

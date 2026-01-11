@@ -26,9 +26,6 @@
 <a href = "https://www.linkedin.com/in/yomna-elmousalami/">
   <img src=https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white />
 </a>
-<a href = "https://drive.google.com/uc?export=download&id=14GX06n2trqafWFuqP9_wpr9O6ZvcXwb6">
- <img src="https://img.shields.io/badge/resume-purple?style=for-the-badge&logo=resume&logoColor=white" />
-</a>
 <a href = "https://digitalcommons.odu.edu/undergradsymposium/2024/sciences/10/">
  <img src="https://img.shields.io/badge/Publication-pink?style=for-the-badge&logoColor=white" />
 </a>

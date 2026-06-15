@@ -1,6 +1,4 @@
 # Hi, I'm Yomna 👋
-**:mortar_board: Employed Software Engineer**
-<br>
 **🔭 Interested in Data Science, ML, SWE, and Research**
 <br>
  ## 📫 How to reach me
